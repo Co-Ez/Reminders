@@ -77,6 +77,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") { //checks if the form has been submit
             $_SESSION['email'] = $email; //sets the session email to the users email, makes them 'logged in'
 
             header("Location: ../home/home.php"); //redirects the user to the dashboard page
+            //replace with your file path
             
             exit(); //terminates the current script
         }
