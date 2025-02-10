@@ -33,3 +33,19 @@ put an x in the box when you are done with that task
 - [] User Acceptance Criteria
 - [] Legal Regulatory and Ethical Considerations
 - [] Rational of the Proposal
+
+## Task 1 B ##
+put an x in the box when you are done with that task
+
+- [] 
+- [] 
+- [] 
+- [] 
+- [] 
+- [] 
+- [] 
+- [] 
+- [] 
+- [] 
+- [] 
+- [] 
