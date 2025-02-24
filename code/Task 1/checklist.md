@@ -32,7 +32,7 @@ put an x in the box when you are done with that task
 - [] Decomposition of Problem
 - [] Function and Non-Functional Requirements
 - [] TechStack of Solution
-- [] Key Performance Indicators
+- [] Key Performance Indicators (KPIs)
 - [] User Acceptance Criteria
 - [] Legal Regulatory and Ethical Considerations
 - [] Rational of the Proposal
@@ -40,15 +40,22 @@ put an x in the box when you are done with that task
 ## Task 1 B ##
 put an x in the box when you are done with that task
 
-- [] 
-- [] 
-- [] 
-- [] 
-- [] 
-- [] 
-- [] 
-- [] 
-- [] 
-- [] 
-- [] 
-- [] 
+- [] Visual Interface:
+    - [] Wireframes (low, mid and high fidelity)
+    - [] Page Specification
+    - [] Sources (a table for images and other assests)
+    - [] Colours (use the contrast checker above, primary colours + secondary colours, colour combination, explain why you picked those colours etc.)
+    - [] Visual Designs (Like designing the logo, the design of the elements i.e. the header+footer)
+    - [] Accessibility
+    - [] Site Map
+    - [] Navigation Flow Diagram
+- [] Data:
+    - [] Data Tables/Data Types
+    - [] Data Dictionary
+    - [] ERD Diagram
+    - [] Data Flow Diagram
+- [] Algorithms:
+    - [] Flowcharts/Pseudocode/Natural Language/Actual Code (pick whatever is more appropriate)
+- [] Testing:
+    - [] Testing Strategy
+    - [] Test Plan
