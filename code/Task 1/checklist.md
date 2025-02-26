@@ -2,6 +2,7 @@
 
 ## Important Sites ##
 https://webaim.org/resources/contrastchecker/ - this allows you to check the contrast of your colours, and if text works in that colour
+grep.app - allows you to search across millions of git repos
 
 ## Task 1 A(i) ##
 put an x in the box when you are done with that task
